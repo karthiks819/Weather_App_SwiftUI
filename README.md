@@ -56,6 +56,20 @@ The app follows the Model-View-ViewModel (MVVM) architectural pattern:
 - **WeatherAPI**: External weather data service integration
 - **@AppStorage**: Persists user preference for temperature units
 
+## Screenshots
+
+![weather_app](https://github.com/user-attachments/assets/b0beffec-f397-4045-8ff2-f8f1d4bb6147)
+
+
+
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/69e03ce0-0317-43ee-8725-d263a66f11e9" />
+
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/f3296cf0-d688-401a-aece-f1d58e71ec24" />
+
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/07a6713d-f1ff-4a64-8a08-fd44be4e4391" />
+
+
+
 ## How to Use
 
 1. Enter a city name in the text field (minimum 3 characters required)
